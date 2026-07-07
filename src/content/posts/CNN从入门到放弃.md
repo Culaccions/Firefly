@@ -3,7 +3,7 @@ title: CNN从入门到放弃
 published: 2026-07-07
 description: 从卷积开始，到池化、全连接层， 到ResNet快速入门CNN。
 tags: [深度学习]
-categories: 深度学习
+category: 深度学习
 draft: false
 image: api
 ---

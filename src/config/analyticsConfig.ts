@@ -10,9 +10,9 @@ export const analyticsConfig: AnalyticsConfig = {
 		// Umami Website ID
 		websiteId: "152e3451-e450-4428-b8c5-04c739da98ed",
 		// Umami JS地址，支持使用自建
-		scriptUrl: "https://cloud.umami.is/script.js",
+		scriptUrl: "https://umami-ten-sepia.vercel.app/script.js",
 		// Umami 会话回放脚本地址，支持使用自建
-		replaysScriptUrl: "https://cloud.umami.is/recorder.js",
+		replaysScriptUrl: "https://umami-ten-sepia.vercel.app/recorder.js",
 		// 是否追踪出站链接
 		trackOutboundLinks: true,
 		// 是否收集浏览器性能指标
